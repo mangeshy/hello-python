@@ -1,3 +1,3 @@
 # hello-python
-Starting to learn Pythin.
+Starting to learn Python.
 Covering some work done as a starter with Python
